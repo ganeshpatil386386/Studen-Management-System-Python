@@ -1,7 +1,5 @@
-# Studen-Management-System-Python
-Student Data Management system project shows stored data of student to identify records
-You need to install libraries as follow
-Library- pip install pillow
-and you're done. compile stud_data.py and its live.
+# Static Student Data Management System
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://ganeshpatil-studenmanag-x6s49jzyzz0.ws-us63.gitpod.io/)
 
 
