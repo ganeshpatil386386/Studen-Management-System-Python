@@ -8,12 +8,12 @@ import datetime
 from tkcalendar import DateEntry
 
 root=Tk()
-root.title("G.H.RAISONI POLYTECHNIC")
+root.title("Static Data ManagemenT")
 root.configure(bg='#00d8d6')
 
 
 
-TB=Label(root,text="STUDENT RECORD SYSTEM",font=("cambria",15,"bold"),fg="Red" ).place(x=160,y=40,h=45,w=270)
+TB=Label(root,text="DATA MANAGEMENT",font=("cambria",15,"bold"),fg="Red" ).place(x=160,y=40,h=45,w=270)
 
 user=StringVar()
 pswd=StringVar()
@@ -91,7 +91,7 @@ def so():
     str(root.pt.set("Member"))
 
     #p1.set("login.jpg")
-    im = PhotoImage(file='login.jpg')
+    im = PhotoImage(file='./img/login.jpg')
     lab = Label(root)
     lab['image'] = im
     im.image = im
